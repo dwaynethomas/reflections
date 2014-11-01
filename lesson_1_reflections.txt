@@ -19,3 +19,5 @@ docs does?
 Manual commits have the risk of forgeting the logical chunk that might have been worked on. 
 Perhaps an automatic prompt to save/track work every few minutes on top of a manual commit option could be helpful. Nick at work does this and now I 
 understand why.
+
+here's Dwayne
