@@ -1,0 +1,21 @@
+How did viewing a diff between two versions of a file help you see the bug that
+ was introduced?
+The diff helped for making quicker comparisons between files. When files are 
+especially large the review process for files could be very complicated
+Good practice in writing code is to keep it less than 80 lines.
+Thankfully Sublime helps as well by constantly tracking the amount of columns
+listed in the file. 
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+Easy access to the history of the file saves me from having to save multiple versions of the file locally. 
+Also commenting files helps me note which changes were made to what intent 
+when. 
+It could also help for branching or deciding major changes in my thinking 
+process.
+
+What do you think are the pros and cons of manually choosing when to create a 
+commit, like you do in Git, vs having versions automatically saved, like Google 
+docs does?
+Manual commits have the risk of forgeting the logical chunk that might have been worked on. 
+Perhaps an automatic prompt to save/track work every few minutes on top of a manual commit option could be helpful. Nick at work does this and now I 
+understand why.
