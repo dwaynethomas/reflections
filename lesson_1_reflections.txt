@@ -25,3 +25,15 @@ understand why.
 Google Docs has never been an issue for me, but I've not tried to created a 
 framework for an application with distinct parts before.
 
+How might using version control make you more confident to make changes that 
+could break something?
+
+When you've updated your document, click "Next" to start configuring a workspace 
+that will make you more efficient at using Git.
+
+Committs allwow the freedom to experiment like when I introduced failing tests and 
+don't have to remember specifically when that was done.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+git should help me inserting my testcases on api at work. i'm also hopeful it will help some of my personal projects
+
