@@ -5,3 +5,7 @@ How is the staging area different from the working directory and the repository?
  The staging area is different in that it further prepares a logical thought or 
  committ for version control. The repository stores all the files. The working 
  directory is the location where we are changing code.
+
+ How can you use the staging area to make sure you have one commit per logical change?
+
+ The staging area should allow me to separate commits to their smallest size possible.
