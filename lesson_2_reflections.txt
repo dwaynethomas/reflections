@@ -21,3 +21,7 @@ How is the staging area different from the working directory and the repository?
  What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
  the commit histories of both files are saved that's why we represent the process with two arrow pointing to the two branches.
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+ automatic merges reduce the manual tracking of changes but leave important decisions to humans.
