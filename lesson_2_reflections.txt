@@ -17,3 +17,7 @@ How is the staging area different from the working directory and the repository?
  How do the diagrams help you visualize the branch structure?
 
  Diagrams help us to be able reach our work while experimenting.
+
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+ the commit histories of both files are saved that's why we represent the process with two arrow pointing to the two branches.
