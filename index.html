@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>current-weather</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Importing Web Component's Polyfill -->
+    <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
+
+    <!-- Importing Custom Elements -->
+    <link rel="import" href="src/current-weather.html">
+
+
+    <script src="bower_components/platform/platform.js"></script>
+    <link rel="import" href="bower_components/current-weather/dist/current-weather.html">
+    
+
+    <style>
+
+    </style>
+</head>
+<body>
+
+    <!-- Using Custom Elements -->
+    <current-weather lat="37.3860500" lon="-122.0838500" units="imperial"></current-weather>
+    <current-weather lat="49.27826" lon="11.45929" units="metric"></current-weather>
+
+</body>
+</html>
